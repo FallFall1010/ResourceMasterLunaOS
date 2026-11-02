@@ -1,0 +1,1 @@
+Permission is granted, free of charge, to anyone who obtains a copy of this software, solely for the purposes of development, modification, and distribution integrated exclusively within the LunaOS project. Use of this software in any project or operating system other than LunaOS is strictly prohibited without written permission from the copyright holder.
